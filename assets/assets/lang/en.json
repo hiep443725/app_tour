@@ -1,0 +1,385 @@
+{
+    "Introduce": {
+        "title": "Da Nang Museum Tour",
+        "description_1": "The Da Nang Museum is designed as a destination with a garden,a coffee,a lobby.",
+        "description_2": "A permanent exhibition,a temporary exhibition,and the children museum program.",
+        "button_1": "Start download",
+        "button_2": "Start the visit"
+    },
+    "LanguageDialog": {
+        "title": "Choose your language"
+    },
+    "ListTour": [
+        {
+            "id": "1",
+            "name": "celebration space",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg",
+            "subTours": [
+                {
+                    "id": "101",
+                    "name": "An overview of the exhibition of Danang Museum",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "102",
+                    "name": "Administrative map of Danang",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "103",
+                    "name": "Visitors' map",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "104",
+                    "name": "Information counter",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "105",
+                    "name": "Other facilities",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "introduction",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg",
+            "subTours": [
+                {
+                    "id": "201",
+                    "name": "Mosiac of Photographs / Videos",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "202",
+                    "name": "Introduction to Danang Museum",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "nature and people of da nang",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg",
+            "subTours": [
+                {
+                    "id": "301",
+                    "name": "Natural",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "3011",
+                    "name": "Typical Natural landscapes",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "3012",
+                    "name": "Earth layers: geology and minerals",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "3013",
+                    "name": "Climate nad hydrology",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "3014",
+                    "name": "Forest ecosystems",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "3015",
+                    "name": "Marine ecosystems",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "302",
+                    "name": "People",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "3021",
+                    "name": "Danang: Prehistoric times",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "3022",
+                    "name": "Danag and Champa Culture",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "3023",
+                    "name": "Formation of Villages",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "history of da nang urban development",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg",
+            "subTours": [
+                {
+                    "id": "401",
+                    "name": "Feudalism(1604-1888)",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "402",
+                    "name": "French Colonial Period(1888-1945)",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "403",
+                    "name": "The republic of Vietnam",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "danang and the struggle to protect independence",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg",
+            "subTours": [
+                {
+                    "id": "501",
+                    "name": "French-Spanish War(1858-1860)",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "502",
+                    "name": "Đà Nẵng đấu tranh bảo vệ độc lập dân tộc",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "5021",
+                    "name": "Patriotic movements in Da Nang before 1930",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "5022",
+                    "name": "Revolutionary movements in Da Nang from 1930 to 1945",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "5023",
+                    "name": "Da Nang in the resistance war against the French colonialists(1945-1954)",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "5024",
+                    "name": "Da Nang in the resistance war against American(1954-1975)",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "503",
+                    "name": "Đà Nẵng sau năm 1975",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "5031",
+                    "name": "Da Nang during the subsidy period(1975-1986)",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "5032",
+                    "name": "Da Nang in economic innovation time(1997-2020)",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "5033",
+                    "name": "Da Nang in the future",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "war rememberations topic",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg",
+            "subTours": [
+                {
+                    "id": "601",
+                    "name": "American military base in Danang",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "602",
+                    "name": "Human fate in war",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "603",
+                    "name": "American soldiers on the other side of the front line",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "604",
+                    "name": "The world fights for peace in Vietnam",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "605",
+                    "name": "Chemical warfare consequences and remedy",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "name": "culture",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg",
+            "subTours": [
+                {
+                    "id": "701",
+                    "name": "Culture of Vietnamese",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "7011",
+                    "name": "Traditional Vietnamese weddings",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "7012",
+                    "name": "Culinary traditions and culture of Vietnamese people in Quang",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "7013",
+                    "name": "Communal living space",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "7014",
+                    "name": "Marine culture",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "7015",
+                    "name": "Agriculture",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "7016",
+                    "name": "Traditional handcrafts",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "7017",
+                    "name": "Traditional performance art",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "702",
+                    "name": "Culture of Ethnic Minorities",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "70211",
+                    "name": "Performance Stage for Special Events",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "70212",
+                    "name": "Overview Introduction",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "70221",
+                    "name": "Belief Systems-Wooden Statue/Mask",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "70222",
+                    "name": "Belief Systems-Burial Custom",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "7023",
+                    "name": "Communal Living Space",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "70241",
+                    "name": "Subsistence Activities-Traditional Farming",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "70242",
+                    "name": "Subsistence Activities-Hunting,Fishing Habits",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "70251",
+                    "name": "Culinary Tradition and Culture-Typical Fruits",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "name": "history of danang city hall",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+        },
+        {
+            "id": "9",
+            "name": "collection of antiques of da nang museum",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+        },
+        {
+            "id": "10",
+            "name": "open warehouse display",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+        },
+        {
+            "id": "11",
+            "name": "periodic exhibition",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+        },
+        {
+            "id": "12",
+            "name": "research and development",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg",
+            "subTours": [
+                {
+                    "id": "1201",
+                    "name": "Exhibition of latest acquisition of the Museum",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "1202",
+                    "name": "Exhibition of the latest research of the Museum",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                }
+            ]
+        },
+        {
+            "id": "13",
+            "name": "children's exhibition museum",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+        },
+        {
+            "id": "14",
+            "name": "periodic display area",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+        },
+        {
+            "id": "15",
+            "name": "conference room",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+        },
+        {
+            "id": "16",
+            "name": "library",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+        },
+        {
+            "id": "17",
+            "name": "Garden",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+        }
+    ]
+}

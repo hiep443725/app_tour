@@ -1,0 +1,385 @@
+{
+    "Introduce": {
+        "title": "Bảo tàng Đà Nẵng",
+        "description_1": "Bảo tàng Đà Nẵng được thiết kế như một điểm đến hấp dẫn có vườn, quán cà phê, sảnh đón.",
+        "description_2": "Có trưng bày định kỳ, trưng bày cố định, và khu dành cho thiếu nhi.",
+        "button_1": "Tải xuống",
+        "button_2": "Bắt đầu chuyến thăm"
+    },
+    "LanguageDialog": {
+        "title": "Chọn ngôn ngữ"
+    },
+    "ListTour": [
+        {
+            "id": "1",
+            "name": "Không gian khánh thành",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg",
+            "subTours": [
+                {
+                    "id": "101",
+                    "name": "Giới thiệu tổng quan trưng bày",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "102",
+                    "name": "Bản đồ hành chính Đà Nẵng",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "103",
+                    "name": "Sơ đồ tham quan",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "104",
+                    "name": "Quầy tra cứu thông tin",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "105",
+                    "name": "Các tiện ích khác",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Mở đầu",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg",
+            "subTours": [
+                {
+                    "id": "201",
+                    "name": "Các hình ảnh / video",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "202",
+                    "name": "Giới thiệu Bảo tàng Đà Nẵng",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Thiên nhiên và con người đà nẵng",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg",
+            "subTours": [
+                {
+                    "id": "301",
+                    "name": "Thiên nhiên",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "3011",
+                    "name": "Cảnh quan thiên nhiên tiêu biểu",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "3012",
+                    "name": "Địa chất khoáng sản",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "3013",
+                    "name": "Khí hậu-thủy văn",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "3014",
+                    "name": "Hệ sinh thái rừng",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "3015",
+                    "name": "Hệ sinh thái biển",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "302",
+                    "name": "Con người",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "3021",
+                    "name": "Đà Nẵng thời tiền-sơ sử",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "3022",
+                    "name": "Đà Nẵng thời văn hóa Chăm",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "3023",
+                    "name": "Sự hình thành làng xã",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Lịch sử phát triển đô thị đà nẵng",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg",
+            "subTours": [
+                {
+                    "id": "401",
+                    "name": "Thời phong kiến(1604-1888)",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "402",
+                    "name": "Thời thuộc Pháp(1888-1945)",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "403",
+                    "name": "Thời Việt Nam Cộng hòa",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Đà nẵng và cuộc đấu tranh bảo vệ nền độc lập",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg",
+            "subTours": [
+                {
+                    "id": "501",
+                    "name": "Đà Nẵng mở đầu cuộc kháng chiến chống liên quân Phapos-Tây Ban Nha(1858-1860)",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "502",
+                    "name": "Đà Nẵng đấu tranh bảo vệ độc lập dân tộc",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "5021",
+                    "name": "Các phong trào yêu nước tại Đà Nẵng trước năm 1930",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "5022",
+                    "name": "Phong trào cách mạng tại Đà Nẵng từ năm 1930 đến năm 1945",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "5023",
+                    "name": "Đà Nẵng trong kháng chiến chống thực dân Pháp(1945-1954)",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "5024",
+                    "name": "Đà Nẵng trong kháng chiến chống Mỹ(1954-1975)",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "503",
+                    "name": "Đà Nẵng sau năm 1975",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "5031",
+                    "name": "Đà Nẵng thời bao cấp(1975-1986)",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "5032",
+                    "name": "Đà Nẵng đổi mới(1997-2020)",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "5033",
+                    "name": "Đà Nẵng tương lai",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "Chuyên đề chứng tích chiến tranh",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg",
+            "subTours": [
+                {
+                    "id": "601",
+                    "name": "Căn cứ quân sự liên hợp của Mỹ tại Đà Nẵng",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "602",
+                    "name": "Số phận con người trong chiến tranh",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "603",
+                    "name": "Những người lính Mỹ bên kia chiến tuyến",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "604",
+                    "name": "Thế giới đấu tranh cho hòa bình của Việt nam",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "605",
+                    "name": "Chiến tranh hóa học, hậu quả và khắc phục",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "name": "Văn hóa",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg",
+            "subTours": [
+                {
+                    "id": "701",
+                    "name": "Văn hóa người Việt xứ Quảng",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "7011",
+                    "name": "Tái hiện không gian đám cưới truyền thống",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "7012",
+                    "name": "Văn hóa ẩm thực",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "7013",
+                    "name": "Sinh hoạt cộng đồng",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "7014",
+                    "name": "Văn hóa biển",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "7015",
+                    "name": "Văn hóa nông nghiệp",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "7016",
+                    "name": "Nghề thủ công truyền thống",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "7017",
+                    "name": "Nghệ thuật trình diễn truyền thống",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "702",
+                    "name": "Văn hóa các dân tộc thiểu số",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "70211",
+                    "name": "Sân khấu trình diễn trong sự kiện đặc biệt",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "70212",
+                    "name": "Giới thiệu tổng quan",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "70221",
+                    "name": "Văn hóa tín ngưỡng-tượng gỗ,mặt nạ",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "70222",
+                    "name": "Văn hóa tín ngưỡng-tập quán chôn cất",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "7023",
+                    "name": "Không gian sinh hoạt cộng đồng",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "70241",
+                    "name": "Văn hóa sản xuất-nông nghiệp truyền thống",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "70242",
+                    "name": "Văn hóa sản xuất-tập quán săn bắt",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "70251",
+                    "name": "Văn hóa ẩm thực-trái cây đặc trưng",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "name": "Lịch sử tòa thị chính đà nẵng",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+        },
+        {
+            "id": "9",
+            "name": "Sưu tập cổ vật của bảo tàng đà nẵng",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+        },
+        {
+            "id": "10",
+            "name": "Trưng bày kho mở",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+        },
+        {
+            "id": "11",
+            "name": "Trưng bày định kỳ",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+        },
+        {
+            "id": "12",
+            "name": "Nghiên cứu phát triển",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg",
+            "subTours": [
+                {
+                    "id": "1201",
+                    "name": "Trưng bày những sưu tập bổ sung mới nhất của Bảo tàng",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                },
+                {
+                    "id": "1202",
+                    "name": "Trưng bày những nghiên cứu mới nhất của Bảo tàng",
+                    "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+                }
+            ]
+        },
+        {
+            "id": "13",
+            "name": "Khu bảo tàng trưng bày dành cho trẻ em",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+        },
+        {
+            "id": "14",
+            "name": "Khu trưng bày định kỳ",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+        },
+        {
+            "id": "15",
+            "name": "Phòng hội thảo",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+        },
+        {
+            "id": "16",
+            "name": "Thư viện",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+        },
+        {
+            "id": "17",
+            "name": "Garden",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/16/1148595/A2a91df5f7d82d8674c9.jpg"
+        }
+    ]
+}
